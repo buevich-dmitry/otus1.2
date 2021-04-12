@@ -1,6 +1,6 @@
 To download and install the latest version, run:
 ```
-wget -O helloworld-Linux.deb https://github.com/buevich-dmitry/otus1.2/releases/latest/download/ip_filter-Linux.deb
+wget -O ip_filter-Linux.deb https://github.com/buevich-dmitry/otus1.2/releases/latest/download/ip_filter-Linux.deb
 sudo dpkg -i ip_filter-Linux.deb
 ```
 
@@ -10,7 +10,7 @@ Also you can build the project locally:
 sudo dpkg -i bin/ip_filter-*-Linux.deb
 ```
 
-Then run helloworld app:
+Then run ip_filter app:
 ```
 ip_filter
 ```
